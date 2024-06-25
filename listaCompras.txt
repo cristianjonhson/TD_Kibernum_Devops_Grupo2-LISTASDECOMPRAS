@@ -1,0 +1,5 @@
+1.- cable rojo
+2.- cable blanco
+3.- cable verde
+4.- enchufe hembra
+5.- enchufe macho
