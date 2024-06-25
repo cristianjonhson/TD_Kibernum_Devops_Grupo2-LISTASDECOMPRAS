@@ -17,3 +17,8 @@ punta ganso
 4.- enchufe hembra
 5.- enchufe macho
 
+
+"compras: 
+- Carne
+- Cervezas
+ " 
